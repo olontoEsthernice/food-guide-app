@@ -1,0 +1,340 @@
+<resources>
+    <string name="app_name">Food Guide App</string>
+    <string-array name="food">
+        <item> Beans and Plantain</item>
+        <item> Egusi Soup</item>
+        <item> Fried Rice</item>
+        <item> Jollof Rice</item>
+        <item> Jollof Spag</item>
+        <item> Moi Moi</item>
+        <item> Okro Soup</item>
+        <item> Pepper Soup</item>
+        <item> Pepper Stew</item>
+        <item> Vegetable Soup</item>
+
+    </string-array>
+    <string name="Beansandplantain">
+       Ingredients\n\n
+1 lb Beans and Salt to Taste\n
+6-8 Cups Water\n
+3/4 Cup Chilli Dried\n
+2 Red Bell Pepper Dried\n
+1 Medium Onion\n
+1 Tsp Ginger\n
+2 Tsp Cray Fish\n
+2 Seasoning Cubes\n
+Salt To Taste\n
+1 Cup Palm Oil\n\n
+Instructions\n\n
+step 1\n
+Pick out the specks of dirt from the Beans, rinse and drain the beans and cook till it becomes very soft - about 2\n
+step 2\n
+pour your palm oil into a frying pan\n
+step 3\n
+Blend your crayfish,ginger,bell pepper and onion together\n
+step 4\n
+When the oil is hot poor in your blended vegetables and fry for\n about two minutes\n
+step 5\n
+Pour the already fried vegetables into the cooked beans and add\n your spices to taste and allow to cook for about 5 minutes\n
+step 6\n
+Stair properly and serve
+
+    </string>
+    <string name="Egusisoup">
+        Ingredients\n\n
+1 cup blended onions (about 3- 5 and fresh chilies, to taste)\n
+4 cups egusi (melon seeds, ground or milled)\n
+1⁄2 – 1 cup palm oil\n
+2 teaspoons fresh Une (Iru, locust beans)\n
+Salt (to taste)\n
+Ground crayfish (to taste)\n
+7– 8 cups stock\n
+Cooked Meat and fish (quantity and variety to personal preference)\n
+2 cups cut pumpkin leaves\n
+1 cup waterleaf (cut)\n
+3 tablespoons bitter leaf (washed)\n\n
+            Instructions\n\n
+step 1\n
+In a large pot, heat the palm oil on medium for a minute and then add the Une.\n
+step 2\n
+Slowly add the stock and set on low heat to simmer.\n
+step 3\n
+Scoop teaspoon size balls of the egusi paste mixture into the stock. Be sure to keep ball shape.\n
+step 4\n
+Leave to simmer for 20 – 30 minutes so the balls cook through.\n
+step 5\n
+Add the meat and fish and other bits which you’d like to use.\n
+step 6\n
+Add cut-up pumpkin leaves.\n
+step 7\n
+Add the waterleaf.\n
+step 8\n
+Stir and put a lid on the pot and allow cook for 7–10 minutes, till the leaves wilt.\n
+ step 9\n
+Add the bitter leaf.  Leave the lid off while the cooking finishes for another 5-10 minutes.\n
+step 10\n
+Stir, check seasoning and adjust accordingly.\n
+Now you can sit back and enjoy your delicious Nigerian Egusi Soup!\n
+
+    </string>
+    <string name="Friedrice">
+        Ingredients\n\n
+2 Cups cooked Rice\n
+1 Cup Mixed Vegetables I used Carrots, Sweet Peas, Sweet Corn and Green Beans\n
+1 cup Onion diced\n
+2 Scallions\n
+1 Cup Beef Liver Cubed\n
+1/2 Teaspoon Thyme\n
+1 Teaspoon Curry powder\n
+1/2 cup Chicken \n
+1 Stock cube\n
+3 Tablespoons Oil for frying\n
+Salt to taste\n\n
+Instructions\n\n
+step 1\n
+Add the parboiled Rice to the stock and cook until the water is dried up.\n
+step 2\n
+Preheat the oil in a Pan, throw in the Onions and fry for a minute or two, add the scallions, mixed vegetables and the seasonings ( Thyme, Curry Powder, Salt and Stock Cube)\n
+step 3\n
+Throw in the rice and stir-fry for about 3 to 5 Minutes. Take it off the heat and serve\n
+
+    </string>
+    <string name="Jollofrice">
+       Ingredients\n\n
+6 Cups Rice Long grain\n
+3/4 Cup Olive Oil\n
+5 Tbsp Tomato paste\n
+4 Cups Chicken stock\n
+1 Tbsp Curry Powder\n
+1 Tbsp Thyme\n
+4 cloves Garlic\n
+2 bay leaves\n
+1 Tbsp Ginger Grated\n
+1 Tsp Salt or to taste\n
+1 Onion Medium sized(sliced)\n
+1 Tomato sliced (Large size)\n
+1 Tbsp seasoning powder or seasoning cubes\n
+1 Onion Sliced\n
+White Pepper or black pepper to taste\n\n
+For the sauce, blend together.\n\n
+3 Red Bell Pepper\n
+3 Tomatoes Plum\n
+2 Scotch bonnet\n
+1 Onion Diced\n\n
+Instructions\n\n
+step 1\n
+In a large pan, preheat the cooking Oil. Once the oil is hot, add the diced onions and fry for about 3 to 5 minutes or till the onions become soft.\n
+step 2\n
+Add the Tomato Paste. Fry for about 5 minutes, then add the Garlic, Ginger and bay leaves and let it cook in the tomato paste for about 2 minutes.\n
+step 3\n
+Add the blended pepper and allow the pepper to cook until the water is reduced entirely and the oil is seen floating on the fried pepper.\n
+step 4\n
+Season with Thyme, Curry powder, salt to taste and seasoning Cubes. Leave to cook for another 2 to 5 minutes.\n
+step 5\n
+Stir in the Rice until it is well coated with the sauce. Add the Chicken stock and cover it with a tight-fitting lid then allow it to come to a boil.\n
+step 6\n
+Once it starts boiling - about 3 to 5 minutes after placing it on the stove, reduce the heat immediately to medium-low and steam until the rice is done.\n
+step 7\n
+ Turn off the heat and add the sliced Tomato and Onions, and stir together briefly. Then, cover it up immediately so that the heat remaining in the Rice can steam up the vegetables a little bit.\n
+step 8\n
+You can serve with Plantains, Chicken, Vegetables or as desired. ENJOY!
+
+    </string>
+    <string name="Jollofspag">
+       Ingredients\n\n
+1 lb usually 1 box thin spaghetti\n
+2 3/4 cups chicken stock I used a home made stock\n
+5 large about 2 lbs plum/ roma tomatoes\n
+1 large onion\n
+1 red bell pepper\n
+2 scotch bonnet peppers\n
+3 tbsp vegetable oil\n
+2 tsp bouillon powder\n
+1 tsp dried thyme\n
+1 tsp curry powder\n
+A small handful of basil optional\n
+Salt to taste\n\n
+Instructions\n\n
+step 1\n
+Blend the tomatoes, onions, and peppers until smooth.\n
+step 2\n
+Boil down the tomato sauce on in a pot on medium- high heat until the sauce is about half the amount, and has thickened significantly to look like a paste. This takes about 15-20 minutes, depending on how high the heat is.\n
+step 3\n
+Be sure to stir the sauce occasionally to prevent it from burning.\n
+step 4\n
+Once the sauce is reduced, pour in the stock, oil, thyme, curry powder and bouillon. At this stage, taste the sauce and adjust for salt.\n
+step 5\n
+Add in the spaghetti, pushing it down or breaking it to fit into the pot.\n
+step 6\n
+Cover and allow to cook for 5 minutes on low-medium heat.\n
+step 7\n
+After 5 minutes, the pasta should be soft enough to stir. Stir, turn down the heat to low, and allow to cook for another 8-10 minutes.\n
+step 8\n
+After 8 minutes, stir, and the pasta should be cooked. If it is not, add in a splash (about 1/4 cup) of water and continue to cook for another 5 minutes.\n
+step 9\n
+If you choose to add basil, add it in at this stage, and then serve.
+          </string>
+    <string name="Moimoi">
+       Ingredients\n\n
+1 cup of beans\n
+1 cup of crayfrish\n
+1 large onion\n
+1 red bell pepper\n
+2 scotch bonnet peppers\n
+3 tbsp vegetable oil\n
+Few moimoi leaves
+5 eggs
+1 know cube\n
+Salt to taste\n\n
+Instructions\n\n
+step 1\n
+Blend the crayfish, onions, and peppers until smooth.\n
+step 2\n
+Wash and blend the beans.\n
+step 3\n
+Be sure to stir the blended vegetables with the blended beans.\n
+step 4\n
+Boil the eggs.\n
+step 5\n
+Pour the mixture into the moimoi leave and add your boiled eggs to each.\n
+step 6\n
+Do not forget to add your spices to the mixture to taste.\n
+step 7\n
+Put them in a boilings water which should be in a pot to cook.\n
+step 8\n
+Allow to boil for 15 minutes and your moimoi is ready.\n
+
+
+
+
+
+    </string>
+    <string name="Okrosoup">
+        Ingredients\n\n
+1.5 lb Okra half minced and half sliced\n
+1 red bell pepper\n
+Smoked Turkey wings\n
+1 Small onion minced\n
+1 habanero pepper\n
+3 Tbsp crayfish\n
+1/2 lb Spinach\n
+1 lb shrimps\n
+1 Dry Fish large\n
+4 Tbsp Locust bean\n
+1/2 to 3/4 Palm oil\n
+1 Tsp Seasoning powder\n
+4 to 5 cups water\n\n
+Instructions\n\n
+step 1\n
+Boil the Smoked Turkey wings with salt, seasoning powder and minced Onions. Cook till tender.\n
+step 2\n
+While the meat is boiling, mince half of the onions in a food processor or a chopper and slice the other half. Set aside\n
+step 3\n
+Mince the red bell pepper and habanero pepper in the chopper and set aside.\n
+step 4\n
+When the meat becomes tender, add the minced pepper, crayfish, and locust bean and leave to cook for about 10 minutes.\n
+step 5\n
+Shred and add the washed dry fish and leave to soften for about five minutes.\n
+step 6\n
+Add the palm oil, shrimps and the minced and sliced okro. Leave to cook for about 3 to 5 minutes.\n
+step 7\n
+Stir in the spinach and mix until wilted.\n
+step 8\n
+Remove from heat immediately and serve.\n
+
+    </string>
+    <string name="Peppersoup">
+        Ingredients\n\n
+2 pounds chicken / catfish / cow leg / offal\n
+4 seeds Calabash nutmeg (Ehiri/Ehuru) (ground)\n
+3 cubes Maggi seasoning\n
+2 cloves garlic (minced)\n
+2 medium onions\n
+2 tablespoons Scent leaves (dry uziza leaves)\n
+Red chili pepper / habanero pepper (to taste)\n
+Salt (to taste)\n
+1/2 gallon water (approximately)\n\n
+        Instructions\n\n
+step 1\n
+Wash and prepare chicken, goat meat, offal or cow leg.\n
+step 2\n
+On medium-high heat, place meat into the pot and add water to reach the level of the contents of the pot.\n
+step 3\n
+Add Maggi cubes, garlic, onions, and ground spices.\n
+step 4\n
+Add chili or habanero peppers and salt to taste.\n
+step 5\n
+Cook on medium-high heat till meat is tender and cooked through.\n
+step 6\n
+Add scent leaves for a sweet aroma and flavouring. Cook for two minutes, and the peppersoup is ready.
+
+
+    </string>
+    <string name="Pepperstew">
+       Ingredients\n\n
+4 Red Bell peppers\n
+2 Scotch bonnets (Habanero pepper)\n
+3 Tomatoes large\n
+4 cloves Garlic\n
+1- inch Ginger root\n
+2 tbsp Locust Beans\n
+2 tbsp Crayfish\n
+2 Tbsp Red chili flakes\n
+1/2 Cup Palm Oil\n
+2 Tsp stock powder\n
+1/2 Tbsp Dried thyme\n
+1/2 cup Beef stock\n
+1.5 lb Beef or any other meat of choice\n
+5 Boiled eggs\n
+2 Onions Blend one with the peppers and tomatoes and dice the other one.\n
+Get IngredientsPowered by Chicory\n\n
+Instructions\n\n
+step 1\n
+Blend the red peppers, Habanero peppers, Tomatoes, Onion, ginger, and .\n
+step 2\n
+Heat the palm oil and add the onions. Leave to cook the onions for about 10 minutes or till slightly browned.\n
+step 3\n
+Stir in the blended sauce and leave to cook for about 15 to 20 minutes or till the sauce is reduced.\n
+step 4\n
+Add the crayfish, chili flakes, salt, bouillon powder, thyme, locust beans, beef stock, and the beef. Leave to simmer for another 5 minutes.\n
+step 5\n
+Stir in the boiled eggs and leave to simmer for another 2 minutes.\n
+step 6\n
+Serve over white rice, pasta, boiled yam, boiled potatoes, boiled plantains, and more.
+    </string>
+    <string name="Vegetablesoup">
+       Ingredients\n\n
+4 pounds of spinach chopped\n
+1 pound of cooked meat of choice I used fried Tilapia\n
+1/2 pound of small fresh water shrimp\n
+2 roma tomatoes\n
+1 red bell pepper\n
+1 large red onion\n
+2 habanero peppers\n
+2 cloves of garlic\n
+1/4 cup palm oil/ annatto oil\n
+3 tbsp powdered dried shrimp\n
+Salt to taste\n\n
+Instructions\n\n
+step 1\n
+To prep, blend half of the red onion with the tomatoes, bell pepper, garlic, and hot pepper. Chop the other half of the red onion.\n
+step 2\n
+In a deep sauce pan or stock pot, heat the oil and saute the onions over medium heat until its golden brown.\n
+step 3\n
+Add the blended tomato mix, and allow to cook over medium heat for about 30 minutes. Stir occasionally to avoid the mix from burning.\n
+step 4\n
+After 30 minutes, the sauce should be significantly reduced, at this point season it with powdered dry shrimp and salt to taste.\n
+step 5\n
+If cooking with cooked red meat or chicken, add them to the sauce at this point. If using dried mushrooms, re-hydrate and them at this point as well.\n
+step 6\n
+Add the fresh shrimp to the sauce, then add the spinach. At this stage, the spinach may look too much, but allow to sit in the pot for about 1 minute.\n
+step 7\n
+Gently stir the stew and the spinach until the spinach is wilted till about half the its original volume.\n
+step 8\n
+Adjust the seasoning with salt to taste if necessary. At this point I added the fried tilapia, stirred and served.\n
+step 9\n
+This stew is best served warm and freshly cooked.
+    </string>
+
+
+</resources>
